@@ -1,5 +1,5 @@
 ### Hi there, I'm Piyush Chandra Chandra - aka [Piyush][profile] 👋
-[![Facebook Follow](https://img.shields.io/facebook/follow/Piyush?color=1DA1F2&logo=facebook&style=for-the-badge)](https://www.facebook.com/PiyushChandraChandra2.0)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Piyush?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PiyushHighlight)
 
 ## I'm a Freelancer, Youtuber, Developer, Designer and Blogger!!
