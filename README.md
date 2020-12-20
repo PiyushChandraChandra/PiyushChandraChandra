@@ -1,6 +1,5 @@
 ### Hi there, I'm Piyush Chandra Chandra - aka [Piyush][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://piyush.decorkaro.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Piyush?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PiyushHighlight)
 
 ## I'm a Freelancer, Youtuber, Developer, Designer and Blogger!!
@@ -68,12 +67,7 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="PiyushChandraChandra's GitHub Stats" src="https://github-readme-stats.PiyushChandraChandra.vercel.app/api?username=PiyushChandraChandra&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="PiyushChandraChandra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushChandraChandra&show_icons=true&hide_border=true" />
 
 [website]: https://piyush.decorkaro.com
 [video]: https://www.youtube.com/c/piyushchandrachandra
