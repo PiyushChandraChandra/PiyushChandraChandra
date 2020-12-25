@@ -1,5 +1,3 @@
-![Piyush Dev](https://github.com/PiyushChandraChandra/PiyushChandraChandra/blob/master/PicsArt_05-13-09.43.29.png)
-
 ### Hi there, I'm Piyush Chandra Chandra - aka [Piyush][profile] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Piyush?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/PiyushHighlight)
@@ -69,7 +67,7 @@
 
 ---
 
-  <img align="left" alt="PiyushChandraChandra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushChandraChandra&theme=great-gatsby_icons=true" />
+  <img align="left" alt="PiyushChandraChandra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushChandraChandra&theme=great-gatsby_icons=true?theme=great-gatsby" />
 
 [profile]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
 [video]: https://www.youtube.com/c/piyushchandrachandra
