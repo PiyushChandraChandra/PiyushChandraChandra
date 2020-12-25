@@ -1,4 +1,4 @@
-[![Piyush Dev](https://github.com/PiyushChandraChandra/PiyushChandraChandra/blob/master/PicsArt_05-13-09.43.29.png)
+![Piyush Dev](https://github.com/PiyushChandraChandra/PiyushChandraChandra/blob/master/PicsArt_05-13-09.43.29.png)
 
 ### Hi there, I'm Piyush Chandra Chandra - aka [Piyush][profile] 👋
 
