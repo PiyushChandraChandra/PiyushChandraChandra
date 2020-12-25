@@ -68,8 +68,8 @@
 ➡️ [more blog posts...](https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/)
 
 ---
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=PiyushChandraChandra&theme=great-gatsby_icons=true)
-  <img align="left" alt="PiyushChandraChandra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushChandraChandra&show_icons=true&hide_border=true" />
+
+  <img align="left" alt="PiyushChandraChandra's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PiyushChandraChandra&theme=great-gatsby_icons=true" />
 
 [profile]: https://www.linkedin.com/in/piyush-chandra-chandra-b16580163/
 [video]: https://www.youtube.com/c/piyushchandrachandra
