@@ -23,9 +23,6 @@
 
 - ⚡ Passion **I love to edit videos and design websites.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
