@@ -96,7 +96,7 @@
 
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{PiyushChandraChandra}/count.svg)
 
 
 [twitter]: https://twitter.com/piyushhighlight/
