@@ -1,4 +1,8 @@
 # [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Piyush Chandra Chandra](https://decorkaro.com/)
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
 <h1 align="center">Hi 👋, I'm Piyush Chandra Chandra</h1>
 <h3 align="center">I'm a Freelancer, Youtuber, Developer, Designer and Blogger!!</h3>
 
@@ -12,7 +16,7 @@
 
 - 🌱 I’m currently learning **PHP, MongoDB, etc**
 
-- 🤝 I’m looking for help with **College Space**
+<!-- - 🤝 I’m looking for help with **College Space** -->
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/piyushchandrachandra/](https://www.linkedin.com/in/piyushchandrachandra/)
 
@@ -23,6 +27,24 @@
 - 📄 Know about my experiences [https://github.com/PiyushChandraChandra/Portfolio-Website-Design/blob/main/PIYUSH%20CHANDRA%20CHANDRA-%20SNU.docx](https://github.com/PiyushChandraChandra/Portfolio-Website-Design/blob/main/PIYUSH%20CHANDRA%20CHANDRA-%20SNU.docx)
 
 - ⚡ Passion **I love to edit videos and design websites.**
+
+* My primary coding language: Python
+* Passionate for learning & exploring new Tech. I write [Tech Blogs](https://medium.com/@piyushchandrachandra) & make personal [YouTube Videos](https://www.youtube.com/c/piyushchandrachandra).
+* I am working on building my online presence and doing my bit to spread knowledge & mentor fellow developers who are starting our their programming journey.
+* Join my [Discord server](https://discord.gg/bnYCHra) | [Telegram Channel](https://t.me/welcometotheorigin).
+
+### My Tech Toolbox 🧰
+
+<p align="left">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
+<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
+<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostGreSQL" width="40" height="40"/>
+</p>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -73,3 +95,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushchandrachandra&show_icons=true&locale=en" alt="piyushchandrachandra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushchandrachandra&" alt="piyushchandrachandra" /></p>
+
+
+
+ ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+
+
+[twitter]: https://twitter.com/piyushhighlight/
+[youtube]: https://www.youtube.com/c/piyushchandrachandra
+[Hashnode]: 
+[gmail]: https://piyushchandrachandra@decorkaro.com
+[linkedin]: https://www.linkedin.com/in/piyushchandrachandra/
+[Medium]: https://medium.com/@piyushchandrachandra
+[Facebook]: https://www.facebook.com/PiyushChandraChandra2.0/
+
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
