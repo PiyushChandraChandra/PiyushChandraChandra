@@ -1,3 +1,4 @@
+# [Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Piyush Chandra Chandra](https://decorkaro.com/)
 <h1 align="center">Hi 👋, I'm Piyush Chandra Chandra</h1>
 <h3 align="center">I'm a Freelancer, Youtuber, Developer, Designer and Blogger!!</h3>
 
