@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **piyushchandrachandra@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/PiyushChandraChandra/Portfolio-Website-Design/blob/main/PIYUSH%20CHANDRA%20CHANDRA-%20SNU.docx](https://github.com/PiyushChandraChandra/Portfolio-Website-Design/blob/main/PIYUSH%20CHANDRA%20CHANDRA-%20SNU.docx)
+- 📄 Know about my experiences [Portfolio](https://piyushchandrachandra.github.io/PiyushPortfolio/)
 
 - ⚡ Passion **I love to edit videos and design websites.**
 
